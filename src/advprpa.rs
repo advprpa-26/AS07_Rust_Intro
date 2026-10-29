@@ -1,6 +1,6 @@
 
 pub fn compute_message() -> String {
-    "AdvPrPa likes 🦀".to_string()
+    "AdvPrPa loves 🦀".to_string()
 }
 
 #[cfg(test)]
